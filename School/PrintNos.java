@@ -27,4 +27,4 @@ public class PrintNos {
         printNos(N - 1);
         System.out.print(N + " ");
     }
-}
+} 
