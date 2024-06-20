@@ -42,5 +42,6 @@ public class ComapreNum {
         if (A < B)
             return "" + A + " is less than " + B;
         return "" + A + " is equals to " + B;
+        
     }
 }

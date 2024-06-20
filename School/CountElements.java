@@ -18,7 +18,9 @@ X = 2
 Output:
 4
 Your Task:  
-You don't need to read input or print anything. Your task is to complete the function countOfElements() which takes the array A[], its size N and an integer X as inputs and returns the number of elements which are less than or equal to given element.
+You don't need to read input or print anything. Your task is to complete the function countOfElements() 
+which takes the array A[], its size N and an integer X as inputs and returns the number of elements which 
+are less than or equal to given element.
 
 Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(1)
