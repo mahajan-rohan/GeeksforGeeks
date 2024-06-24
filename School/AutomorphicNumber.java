@@ -1,4 +1,3 @@
-
 /*
 Automorphic Number
 Given a number N, check whether the number is Automorphic number or not.
@@ -33,7 +32,7 @@ public class AutomorphicNumber {
             if (n % 10 != sq % 10) {
                 return "Not Automorphic";
             }
-            n /= 10;
+            n /= 10; 
             sq = sq / 10;
         }
         return "Automorphic";
