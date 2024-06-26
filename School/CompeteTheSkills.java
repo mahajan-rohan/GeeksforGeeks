@@ -44,22 +44,22 @@ public class CompeteTheSkills {
         // GFG.ca=3;
         // GFG.cb=5;
         // Your code goes here
-        int countA=0,countB=0;
-        if(a[0]>b[0]){
-            countA++;
-        } else if(a[0]<b[0]){
-            countB++;
-        }
-        if(a[1]>b[1]){
-            countA++;
-        } else if(a[1]<b[1]){
-            countB++;
-        }
-        if(a[2]>b[2]){
-            countA++;
-        } else if(a[2]<b[2]){
-            countB++;
-        }
+        // int countA=0,countB=0;
+        // if(a[0]>b[0]){
+        //     countA++;
+        // } else if(a[0]<b[0]){
+        //     countB++;
+        // }
+        // if(a[1]>b[1]){
+        //     countA++;
+        // } else if(a[1]<b[1]){
+        //     countB++;
+        // }
+        // if(a[2]>b[2]){
+        //     countA++;
+        // } else if(a[2]<b[2]){
+        //     countB++;
+        // }
         // GFG.ca=countA;
         // GFG.cb=countB;
     }
