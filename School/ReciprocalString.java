@@ -48,13 +48,10 @@ public class ReciprocalString {
         for (int i = 0; i < S.length(); i++) {
             char ch = S.charAt(i);
             if (Character.isUpperCase(ch)) {
-
                 ans.append((char) ('Z' - (ch - 'A')));
             } else if (Character.isLowerCase(ch)) {
-
                 ans.append((char) ('z' - (ch - 'a')));
             } else {
-
                 ans.append(ch);
             }
         }
