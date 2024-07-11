@@ -23,7 +23,7 @@ Constraints:
 1 <= Length of S<= 2*105
  */
 
-public class Palindrome {
+public class PalindromeString {
     int isPalindrome(String S) {
         StringBuilder rev = new StringBuilder(S);
         if (S.equals(rev.reverse().toString())) return 1;
